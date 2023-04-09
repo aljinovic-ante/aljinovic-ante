@@ -1,5 +1,4 @@
 <h1 align="center">Bok 👋, ja sam Ante Aljinović</h1>
-<h3 align="center">Student 2. godine računarstva na Sveučilišnom odjelu za stručne studije</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

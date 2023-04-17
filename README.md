@@ -11,3 +11,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aljinovic-ante&show_icons=true&locale=en&layout=compact" alt="aljinovic-ante" /></p>
+
+
+![snake gif](https://github.com/aljinovic-ante/aljinovic-ante/blob/output/github-contribution-grid-snake.gif)

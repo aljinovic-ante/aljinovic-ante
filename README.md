@@ -12,5 +12,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aljinovic-ante&show_icons=true&locale=en&layout=compact" alt="aljinovic-ante" /></p>
 
-
+##Snake eating my contribution graph
 ![snake gif](https://github.com/aljinovic-ante/aljinovic-ante/blob/output/github-contribution-grid-snake.gif)

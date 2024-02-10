@@ -12,5 +12,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aljinovic-ante&show_icons=true&locale=en&layout=compact" alt="aljinovic-ante" /></p>
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IyNGZiM2Y1MmMyYjBjODM3YTVmMjJlN2Y1ZWNlNzMwMDUwMzUwZCZjdD1z/TJGEDDEfnFdsOklnZe/giphy.gif" width ="20" height="20" >Contribution graph
-![aljinovic-ante](https://github.com/aljinovic-ante/aljinovic-ante/blob/output/github-contribution-grid-snake-dark.svg)

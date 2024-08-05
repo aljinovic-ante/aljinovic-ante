@@ -5,6 +5,7 @@
 ## Connect with me:
 <p align="left">
 <a href="https://instagram.com/aljinovicante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aljinovicante" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ante-aljinovi%C4%87-348051299/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="aljinovicante" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:

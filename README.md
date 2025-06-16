@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ante Aljinović</h1>
 <p>Currently studying Computer Science at University of Split</p>
-<p>Working as 5G Traffic Control Software Engineer at Ericsson Nikola Tesla</p>
+<p>Working as 5G Traffic Control System Engineer at Ericsson Nikola Tesla</p>
 
 ## Connect with me:
 <p align="left">

@@ -12,5 +12,3 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,git,linux,mysql,maven,py,java,d3,react)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aljinovic-ante&show_icons=true&locale=en&layout=compact" alt="aljinovic-ante" /></p>
-
-![snake animation](https://github.com/aljinovic-ante/aljinovic-ante/blob/output/github-contribution-grid-snake2.svg)
